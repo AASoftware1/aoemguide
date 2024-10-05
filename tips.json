@@ -1,12 +1,27 @@
-   [
-     {
-       "title": "İpucu 1",
-       "content": "Bu bir ipucu içeriğidir.",
-       "imageUrl": "https://raw.githubusercontent.com/kullaniciadi/repo-adi/main/images/image1.jpg"
-     },
-     {
-       "title": "İpucu 2",
-       "content": "Bu başka bir ipucu içeriğidir.",
-       "imageUrl": "https://raw.githubusercontent.com/kullaniciadi/repo-adi/main/images/image2.jpg"
-     }
-   ]
+[
+  {
+    "title": "Ekonomi Yönetimi İpucu",
+    "content": "Oyunun başlangıcında, köylülerinizi hızlı bir şekilde yiyecek ve odun toplamaya odaklayın. Bu kaynaklar, erken dönemde binaları inşa etmek ve ordu oluşturmak için çok önemlidir.",
+    "image": "https://example.com/images/economy_tip.jpg"
+  },
+  {
+    "title": "Savunma Stratejisi",
+    "content": "Şehrinizin etrafına erken dönemde duvarlar inşa edin. Bu, düşman saldırılarına karşı savunmanızı güçlendirecek ve size zaman kazandıracaktır.",
+    "image": "https://example.com/images/defense_tip.jpg"
+  },
+  {
+    "title": "Keşif Önemi",
+    "content": "Oyunun başında bir keşif birimi oluşturun ve haritayı keşfedin. Bu, değerli kaynakları bulmanıza ve düşman konumlarını öğrenmenize yardımcı olacaktır.",
+    "image": "https://example.com/images/exploration_tip.jpg"
+  },
+  {
+    "title": "Teknoloji Geliştirme",
+    "content": "Sürekli olarak yeni teknolojiler araştırın. Gelişmiş teknolojiler, birimlerinizi güçlendirir ve size oyunda avantaj sağlar.",
+    "image": "https://example.com/images/technology_tip.jpg"
+  },
+  {
+    "title": "Ordu Kompozisyonu",
+    "content": "Dengeli bir ordu oluşturun. Farklı birim türlerini bir arada kullanmak, çeşitli düşman stratejilerine karşı etkili olmanızı sağlar.",
+    "image": "https://example.com/images/army_composition_tip.jpg"
+  }
+]
