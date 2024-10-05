@@ -1,25 +1,5 @@
 [
   {
-    "title": "Ekonomi Yönetimi İpucu",
-    "content": " # Dillinger
-## _The Last Markdown Editor, Ever_
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
-    
-    ",
-    "image": "https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/image%20(25).png"
-  },
-  {
     "title": "Savunma Stratejisi",
     "content": "Şehrinizin etrafına erken dönemde duvarlar inşa edin. Bu, düşman saldırılarına karşı savunmanızı güçlendirecek ve size zaman kazandıracaktır.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.\n\n![Savunma Stratejisi](https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/tips11-min.png)\n\nUt aliquam sollicitudin leo. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.",
     "image": "https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/tips11-min.png"
