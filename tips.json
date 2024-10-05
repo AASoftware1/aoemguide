@@ -1,27 +1,27 @@
 [
   {
     "title": "Ekonomi Yönetimi İpucu",
-    "content": "Oyunun başlangıcında, köylülerinizi hızlı bir şekilde yiyecek ve odun toplamaya odaklayın. Bu kaynaklar, erken dönemde binaları inşa etmek ve ordu oluşturmak için çok önemlidir.",
+    "content": "Oyunun başlangıcında, köylülerinizi hızlı bir şekilde yiyecek ve odun toplamaya odaklayın. Bu kaynaklar, erken dönemde binaları inşa etmek ve ordu oluşturmak için çok önemlidir.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n![Ekonomi Yönetimi](https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/image%20(25).png)\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "image": "https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/image%20(25).png"
   },
   {
     "title": "Savunma Stratejisi",
-    "content": "Şehrinizin etrafına erken dönemde duvarlar inşa edin. Bu, düşman saldırılarına karşı savunmanızı güçlendirecek ve size zaman kazandıracaktır.",
+    "content": "Şehrinizin etrafına erken dönemde duvarlar inşa edin. Bu, düşman saldırılarına karşı savunmanızı güçlendirecek ve size zaman kazandıracaktır.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.\n\n![Savunma Stratejisi](https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/tips11-min.png)\n\nUt aliquam sollicitudin leo. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.",
     "image": "https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/tips11-min.png"
   },
   {
     "title": "Keşif Önemi",
-    "content": "Oyunun başında bir keşif birimi oluşturun ve haritayı keşfedin. Bu, değerli kaynakları bulmanıza ve düşman konumlarını öğrenmenize yardımcı olacaktır.",
+    "content": "Oyunun başında bir keşif birimi oluşturun ve haritayı keşfedin. Bu, değerli kaynakları bulmanıza ve düşman konumlarını öğrenmenize yardımcı olacaktır.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum velit a lectus ultricies, ac bibendum nunc hendrerit. Nulla facilisi. Sed quis erat eget ipsum bibendum lobortis.\n\n![Keşif Önemi](https://example.com/images/exploration_tip.jpg)\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.",
     "image": "https://example.com/images/exploration_tip.jpg"
   },
   {
     "title": "Teknoloji Geliştirme",
-    "content": "Sürekli olarak yeni teknolojiler araştırın. Gelişmiş teknolojiler, birimlerinizi güçlendirir ve size oyunda avantaj sağlar.",
+    "content": "Sürekli olarak yeni teknolojiler araştırın. Gelişmiş teknolojiler, birimlerinizi güçlendirir ve size oyunda avantaj sağlar.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis lectus quis sem lacinia nonummy. Proin mollis lorem non dolor. In hac habitasse platea dictumst. Nulla ultrices odio. Donec augue.\n\n![Teknoloji Geliştirme](https://example.com/images/technology_tip.jpg)\n\nEtiam ac leo a risus tristique nonummy. Donec dignissim tincidunt nulla. Vestibulum rhoncus molestie odio. Sed lobortis, justo et pretium lobortis, mauris turpis condimentum augue, nec ultricies nibh arcu pretium enim.",
     "image": "https://example.com/images/technology_tip.jpg"
   },
   {
     "title": "Ordu Kompozisyonu",
-    "content": "Dengeli bir ordu oluşturun. Farklı birim türlerini bir arada kullanmak, çeşitli düşman stratejilerine karşı etkili olmanızı sağlar.",
+    "content": "Dengeli bir ordu oluşturun. Farklı birim türlerini bir arada kullanmak, çeşitli düşman stratejilerine karşı etkili olmanızı sağlar.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n\n![Ordu Kompozisyonu](https://example.com/images/army_composition_tip.jpg)\n\nProin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend.",
     "image": "https://example.com/images/army_composition_tip.jpg"
   }
 ]
