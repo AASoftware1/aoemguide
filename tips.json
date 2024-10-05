@@ -1,7 +1,22 @@
 [
   {
     "title": "Ekonomi Yönetimi İpucu",
-    "content": "Oyunun başlangıcında, köylülerinizi hızlı bir şekilde yiyecek ve odun toplamaya odaklayın. Bu kaynaklar, erken dönemde binaları inşa etmek ve ordu oluşturmak için çok önemlidir.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n![Ekonomi Yönetimi](https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/image%20(25).png)\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "content": " # Dillinger
+## _The Last Markdown Editor, Ever_
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
+    
+    ",
     "image": "https://raw.githubusercontent.com/AASoftware1/aoemguide/refs/heads/main/images/image%20(25).png"
   },
   {
